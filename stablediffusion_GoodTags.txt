@@ -1,0 +1,62 @@
+-----------------
+Universal
+-----------------
+
+*Name* with abs and fit body
+*Name* without clothes and large breast
+*Name* with exposed perky tits facing the camera without clothes
+*Name* with exposed pointy tits facing the camera without clothes
+*Name* shows her puffy tits and vagina to the camera
+*Name* naked enormous tits
+slim *Name* naked enormous tits
+
+-----------------
+Negative Promts
+-----------------
+lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name
+-----------------
+Specialized
+-----------------
+
+Emma Watson, Kenzie Reeves, Mercedes McNab, perky tits, 1female, portrait, nude, naked, silicone breast, adult
+Emma Watson, young Bryce Dallas Howard, Mercedes McNab, large breasts, pregnant, naked, vagina
+Studio Siberian Model, naked, large breasts
+Emma Watson, Mercedes McNab, perky tits, nude
+Bryce Dallas Howard, sun tan lines, silicone tits, big nipples, nude
+Emma Watson, Angela White, silicone tits, naked
+Sasha Luss, Bryce Dallas Howard, large breasts, naked, neutral backdrop, vagina
+
+-----------------
+Faceswap
+-----------------
+Working Syntax: TargetFaceName + BodyName + Order
+-----------------
+
+-----------------
+Good Name Results
+-----------------
+
+Kenzie Reeves
+Isabela Merced
+Emma Watson
+Cara Delevingne
+Mercedes McNab
+Pamela Reif
+Bryce Dallas Howard
+Millie Bobby Brown
+Madison Beer
+Chloë Grace Moretz
+Sasha Luss
+Ivy Wolfe
+Katie Banks
+
+-----------------
+https://rentry.org/sdmodels
+https://www.bigtitavenue.com/big-boob-pornstars/
+-----------------
+
+Arcane-Diffusion [318a302e]: arcane style
+StudioGhibli [10c6aa67]: studio_ghibli_anime_style style
+irlhyperbreasts_9k.ckpt [5ce8b6ec]: hyperbreasts
+Hyperpreg: v2 (realism and anime): hyperpreg
+Futa_step_3200_10_27.ckpt: futa
