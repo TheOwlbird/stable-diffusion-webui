@@ -13,7 +13,7 @@ slim *Name* naked enormous tits
 -----------------
 Negative Promts
 -----------------
-lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name
+male, man, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artefacts, signature, watermark, username, blurry, artist name, grayscale, black and white, out of focus
 -----------------
 Specialized
 -----------------
@@ -35,7 +35,7 @@ Working Syntax: TargetFaceName + BodyName + Order
 -----------------
 Good Name Results
 -----------------
-
+Hailee Steinfeld
 Kenzie Reeves
 Isabela Merced
 Emma Watson
