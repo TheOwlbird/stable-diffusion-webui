@@ -51,6 +51,10 @@ if EXIST %ACCELERATE% goto :accelerate_launch
 
 :launch
 %PYTHON% launch.py --medvram %*
+<<<<<<< Updated upstream
+=======
+if EXIST tmp/restart goto :skip_venv
+>>>>>>> Stashed changes
 pause
 exit /b
 
